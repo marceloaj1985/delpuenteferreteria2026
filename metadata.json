@@ -1,0 +1,10 @@
+{
+  "name": "SISTEMA FULL COMERCIOS",
+  "description": "Sistema de gestión comercial web para ferreterías, corralones y negocios con punto de venta, facturación, presupuestos, remitos, control de stock ",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
